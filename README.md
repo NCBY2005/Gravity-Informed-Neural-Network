@@ -49,13 +49,14 @@ python main.py
 
 1. The simulated data is shown by:
 
-![Generated Data](plots/Generated_Data.png)  
+![Generated Data](plots/Acceleration_Distance.png)  
+![Flashy Graph](plots/Acceleration_Position.png)
 
 The color bar shows the magnitude at the corresponding x, y meters away from the center of gravity.
 
 2. The model provided here gives the below results:
 
-![Model Prediction](plots/25Oct2025Result.png)
+![Model Prediction](plots/26Oct2025Result.png)
 
 ## License
 MIT License
