@@ -27,7 +27,10 @@ This project demonstrates how a simple neural network can learn fundamental phys
 git clone https://github.com/yourusername/Gravity-Informed-NN.git
 ```
 
-2. pip install -r requirements.txt
+2. Install Requirements
+```python
+pip install -r requirements.txt
+```
 
 ## Usage
 1. Generate training data from:
@@ -42,10 +45,16 @@ python main.py
 ```
 
 ## Results
-1. The simulated data is shown by: !(plots/Generated_Data.png)
-where the color bar show the magnitude at corresponding x,y meters away from the center of gravity.
 
-2. The model provided here gives the below results: !(plots/25Oct2025Result.png)
+1. The simulated data is shown by:
+
+![Generated Data](plots/Generated_Data.png)  
+
+The color bar shows the magnitude at the corresponding x, y meters away from the center of gravity.
+
+2. The model provided here gives the below results:
+
+![Model Prediction](plots/25Oct2025Result.png)
 
 ## License
 MIT License
