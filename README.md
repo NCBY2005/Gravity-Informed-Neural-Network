@@ -49,14 +49,14 @@ python main.py
 
 1. The simulated data is shown by:
 
-<img src="plots/Acceleration_Distance.png" width="250" height="250">
-<img src="plots/Acceleration_Position.png" width="250" height="250">
+<img src="plots/Acceleration_Distance.png" width="500" height="500">
+<img src="plots/Acceleration_Position.png" width="500" height="500">
 
 The color bar shows the magnitude at the corresponding x, y meters away from the center of gravity.
 
 2. The model provided here gives the below results:
 
-<img src="plots/26Oct2025Result.png" width="250" height="250">
+<img src="plots/26Oct2025Result.png" width="500" height="500">
 
 ## License
 MIT License
