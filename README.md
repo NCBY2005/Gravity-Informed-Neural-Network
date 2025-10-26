@@ -34,21 +34,20 @@ git clone https://github.com/yourusername/Gravity-Informed-NN.git
 ```python
 from simulate import generate_orbit_data
 positions, accelerations = generate_orbit_data()
+```
 
 2. Train Neural Network from:
 ```python
 python main.py
+```
 
 ## Results
-1. The simulated data is shown by:
-```python
-py.savefig("plots/Generated_Data.png")
+1. The simulated data is shown by: !("plots/Generated_Data.png")
+
 
 where the color bar show the magnitude at corresponding x,y meters away from the center of gravity.
 
-2. The model provided here gives the below results:
-```python
-py.savefig("plots/25Oct2025Result.png")
+2. The model provided here gives the below results: !("plots/25Oct2025Result.png")
 
 ## License
 MIT License
