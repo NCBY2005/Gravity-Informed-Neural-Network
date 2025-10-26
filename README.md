@@ -11,7 +11,8 @@ A physics-informed machine learning project that teaches a neural network to lea
 - [License](#license)
 
 ## Overview
-This project demonstrates how a simple neural network can learn fundamental physics laws using simulated orbital data. The network predicts the magnitude of gravitational acceleration based on the distance from the central mass, learning the inverse-square law \($a \propto 1/r^2$\).
+This project demonstrates how a simple neural network can learn fundamental physics laws \($a \propto 1/r^2$\) using simulated orbital data. 
+Predicts the magnitude of gravitational acceleration based on the distance from the central mass
 
 ## Features
 - Generate orbital data in 2D using Newton's Law of Universal Gravitation.
