@@ -25,6 +25,7 @@ This project demonstrates how a simple neural network can learn fundamental phys
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Gravity-Informed-NN.git
+```
 
 2. pip install -r requirements.txt
 
