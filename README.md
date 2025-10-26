@@ -42,12 +42,10 @@ python main.py
 ```
 
 ## Results
-1. The simulated data is shown by: !("plots/Generated_Data.png")
-
-
+1. The simulated data is shown by: !(plots/Generated_Data.png)
 where the color bar show the magnitude at corresponding x,y meters away from the center of gravity.
 
-2. The model provided here gives the below results: !("plots/25Oct2025Result.png")
+2. The model provided here gives the below results: !(plots/25Oct2025Result.png)
 
 ## License
 MIT License
