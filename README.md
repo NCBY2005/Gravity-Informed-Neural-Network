@@ -58,6 +58,10 @@ The color bar shows the magnitude at the corresponding x, y meters away from the
 
 <img src="plots/26Oct2025Result.png" width="500" height="500">
 
+## Concerns
+
+Assymmetry shown in the color diagram plotting Acceleration w.r.t Position is not fully understood.
+
 ## License
 MIT License
 
